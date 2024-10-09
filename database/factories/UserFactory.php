@@ -21,7 +21,7 @@ class UserFactory extends Factory
 
             'rating' => fake()->randomElement([1,2,3,4,5]),
 
-            'avatar' => 'https://avatar.iran.liara.run/public'
+            'avatar' => 'https://avatar.iran.liara.run/public',
 
         ];
     }
