@@ -1,4 +1,4 @@
-<div class="flex items-center justify-content-between mt-4 text-[14px]" wire:poll.1s>
+<div class="flex items-center justify-between mt-4 text-[14px]" wire:poll.1s>
 
     <div class="text-[#8C8C9A] leading-6">Encerra em:</div>
 
