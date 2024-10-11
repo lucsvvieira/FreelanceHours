@@ -1,13 +1,10 @@
-<div>
+<div class="col-span-2">
+
+<x-projects.card 
     
-    componente livewire projects.show
+    :$project />
 
-    <pre>
-        
-        title: {{ $project->title }}
 
-        description: {!! $project->description !!}
-
-    </pre>
 
 </div>
+
